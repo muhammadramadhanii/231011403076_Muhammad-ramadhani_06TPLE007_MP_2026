@@ -1,4 +1,5 @@
 SOAL 1
+
 Halaman utama aplikasi workshop kampus dibuat menggunakan Scaffold sebagai kerangka utama, AppBar untuk menampilkan judul aplikasi, dan ListView agar daftar workshop dapat di-scroll jika data banyak. Setiap workshop ditampilkan menggunakan Card supaya informasi terlihat rapi dan mudah dibaca. Di dalam card digunakan Column untuk menyusun judul, tanggal, lokasi, kuota, dan tombol daftar secara vertikal. Widget ElevatedButton digunakan sebagai tombol pendaftaran agar pengguna dapat langsung melakukan aksi dengan mudah.
 
 2. Alasan Pemilihan Widget
